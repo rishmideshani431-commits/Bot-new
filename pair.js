@@ -27,7 +27,7 @@ const {
 
 // ---------------- CONFIG ----------------
 
-const BOT_NAME_FANCY = '𝐐𝐔𝐄𝐄𝐍-𝐑𝐀𝐒𝐇𝐔-𝐌𝐃';
+const BOT_NAME_FANCY = '𝐐𝐔𝐄𝐄𝐍-𝐌𝐃';
 
 const config = {
   AUTO_VIEW_STATUS: 'true',
