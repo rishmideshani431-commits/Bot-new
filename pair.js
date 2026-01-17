@@ -37,7 +37,7 @@ const config = {
   PREFIX: '.',
   MAX_RETRIES: 3,
   GROUP_INVITE_LINK: 'https://chat.whatsapp.com/DVbm2pQEjheFEckGzjBs3b?mode=hqrc',
-  RCD_IMAGE_PATH: 'https://files.catbox.moe/l74kdf.jpg',
+  RCD_IMAGE_PATH: 'https://files.catbox.moe/0x64k1.jpeg',
   NEWSLETTER_JID: '120363368882758119@newsletter',
   OTP_EXPIRY: 300000,
   WORK_TYPE: 'public',
@@ -46,9 +46,9 @@ const config = {
   BOT_NAME: '𝐇𝐀𝐒𝐈𝐘𝐀-𝐌𝐃',
   BOT_VERSION: '1.0.0V',
   OWNER_NAME: 'Nipun Harshana',
-  IMAGE_PATH: 'https://files.catbox.moe/l74kdf.jpg',
+  IMAGE_PATH: 'https://files.catbox.moe/0x64k1.jpeg',
   BOT_FOOTER: '> 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝐇𝐀𝐒𝐈𝐘𝐀 𝐌𝐃 𝙾𝙵𝙲 🫟',
-  BUTTON_IMAGES: { ALIVE: 'https://files.catbox.moe/p2f8x0.jpg' }
+  BUTTON_IMAGES: { ALIVE: 'https://files.catbox.moe/0x64k1.jpeg' }
 };
 
 // ---------------- MONGO SETUP ----------------
