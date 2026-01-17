@@ -2799,7 +2799,7 @@ END:VCARD`
       { buttonId: `${config.PREFIX}owner`, buttonText: { displayText: "🥷 𝐎𝚆𝙽𝙴𝚁 𝐌𝙴𝙽𝚄" }, type: 1 }
     ];
 
-    const defaultImg = 'https://files.catbox.moe/p2f8x0.jpg';
+    const defaultImg = 'https://files.catbox.moe/0x64k1.jpeg';
     const useLogo = userCfg.logo || defaultImg;
 
     // build image payload (url or buffer)
@@ -3040,7 +3040,7 @@ END:VCARD`
 ✘ ${config.PREFIX}alive
 *╰──────────◉◉➢*
 
-> *𝐇𝙸𝚁𝚄 𝚇 𝐌𝙳 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃*
+> *𝐇asiya𝐌𝙳 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃*
 `.trim();
 
     const buttons = [
@@ -3085,7 +3085,7 @@ case 'getdp': {
         try {
             ppUrl = await socket.profilePictureUrl(jid, "image");
         } catch {
-            ppUrl = "https://files.catbox.moe/ditu9f.jpeg"; // default dp
+            ppUrl = "https://files.catbox.moe/0x64k1.jpeg"; // default dp
         }
 
         // 🔹 BotName meta mention
@@ -3200,7 +3200,7 @@ END:VCARD`
     };
 
     const text = `
-👑 *HIRU-XMD OWNER*
+👑 *HAsiya MD OWNER*
 
 *👤 𝐍ame: 𝐇𝐚𝐬𝐚𝐝𝐮 𝐓𝐡𝐞𝐰𝐦𝐢𝐧𝐚*
 *📞 𝐍umber: +94742825783*
