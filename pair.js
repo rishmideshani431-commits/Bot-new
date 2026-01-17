@@ -2585,7 +2585,7 @@ END:VCARD`
         }
 
         // call your mp3 API (the one you provided)
-        const apiUrl = `https://chama-api-web-47s1.vercel.app/mp3?id=${encodeURIComponent(videoUrl)}`;
+        const apiUrl = `https://api.id.dexter.it.com/download/youtube-audio/mp3?id=${encodeURIComponent(videoUrl)}`;
         const apiRes = await axios.get(apiUrl, { timeout: 15000 }).then(r => r.data).catch(e => null);
 
         if (!apiRes || (!apiRes.downloadUrl && !apiRes.result?.download?.url && !apiRes.result?.url)) {
